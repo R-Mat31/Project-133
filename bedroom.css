@@ -1,0 +1,14 @@
+body{
+ background-color : aqua;
+}
+h1{
+ width : 15%;
+}
+h3{
+ width : 30%;
+}
+canvas{
+ border : 1px black ridge;
+ border-radius : 20;
+ box-shadow : black 5px 5px 5px;
+}

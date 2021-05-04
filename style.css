@@ -1,0 +1,16 @@
+body{
+ background-size : cover;
+}
+h1{
+ background-color : aquamarine;
+ padding : 10px;
+ margin-top : 0px;
+}
+a{
+ background-color : lawngreen;
+ font-size : 30px;
+ padding-left : 25px;
+ padding-right : 25px;
+ color : lightseagreen;
+ margin : 25px;
+}
